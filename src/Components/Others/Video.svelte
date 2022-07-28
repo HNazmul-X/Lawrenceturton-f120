@@ -1,8 +1,8 @@
 
 
 
-<div class="relative w-full lg:h-[550px] lg:max-h-fit">
-    <video class="rounded-[10px] w-full max-h-[378px] lg:h-full lg:max-h-fit" src="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4" ></video>
+<div class="relative w-full">
+    <video class=" w-full max-h-[378px] lg:h-full lg:max-h-fit" src="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4" ></video>
     <div class="cursor-pointer absolute top-2/4 left-2/4 -translate-x-2/4 -translate-y-2/4 bg-[#ffffff1a] w-[45px] h-[45px] lg:w-[98px] lg:h-[98px] rounded-full flex items-center justify-center">
         <svg class="h-[16px] lg:w-[23px] lg:h-[30px]" viewBox="0 0 23 30" fill="none" xmlns="http://www.w3.org/2000/svg">
             <path

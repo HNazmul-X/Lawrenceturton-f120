@@ -6,7 +6,7 @@
 </script>
 
 <DashboardLayout>
-    <div class="w-full lg:w-3/4 lg:ml-[108px] lg:mr-[20%] c-scrollbar lg:overflow-y-auto lg:h-screen">
+    <div class="w-full lg:w-[72%] lg:ml-[90px] lg:mr-[20%] c-scrollbar lg:overflow-y-auto lg:h-screen">
         <Video />
         <div class="lg:px-[60px] pt-[25px]">
             <!-- location -->

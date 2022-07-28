@@ -3,7 +3,7 @@
     import SideNavbar from "./SideNavbar.svelte";
 </script>
 
-<main class="w-full min-h-screen flex flex-col overflow-hidden lg:flex-row font-['Poppins']">
+<main class="w-full min-h-screen flex flex-col overflow-hidden lg:flex-row">
     <!-- sidebar -->
     <SideNavbar />
     <!-- right content -->

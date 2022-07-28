@@ -2,7 +2,7 @@
     import CourseCurriculamItem from "./../../Components/Others/CourseCurriculamItem.svelte";
 </script>
 
-<div class="c-scrollbar w-full lg:w-[20%] h-full lg:fixed right-0 flex-1 lg:flex flex-col lg:border-l border-gray-200 overflow-y-scroll">
+<div class="c-scrollbar w-full lg:w-[23%] h-full lg:fixed right-0 flex-1 lg:flex flex-col lg:border-l border-gray-200 overflow-y-scroll">
     <!-- instructor detail -->
     <div class="py-[25px] border-b border-gray-200">
         <div class="lg:px-[40px]">
@@ -12,7 +12,7 @@
                     <img
                         class="w-[64px] h-[64px] rounded-full object-cover"
                         src="https://images.pexels.com/photos/733872/pexels-photo-733872.jpeg?cs=srgb&amp;dl=pexels-andrea-piacquadio-733872.jpg&amp;fm=jpg"
-                        alt="image" />
+                        alt="" />
                     <div>
                         <h2 class="text-[18px] font-medium text-[#222222]">Prof. Olivia Breaker</h2>
                         <p class="text-[16px] text-[#222222] opacity-50">MP Expert</p>

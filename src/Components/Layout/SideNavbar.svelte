@@ -1,7 +1,7 @@
 <script lang="ts">
 </script>
 
-<div class="left-0 top-0 w-full lg:w-[108px] border-b lg:border-r border-gray-200 h-[72px] lg:h-screen lg:py-[25px] flex lg:flex-col items-center gap-[25px] lg:gap-[20px] lg:fixed px-[25px] lg:px-0">
+<div class="left-0 top-0 w-full lg:w-[90px] border-b lg:border-r border-gray-200 h-[72px] lg:h-screen lg:py-[25px] flex lg:flex-col items-center gap-[25px] lg:gap-[20px] lg:fixed px-[25px] lg:px-0">
     <!-- LOGO -->
     <a class="lg:mb-2" href="#">
         <svg class="cursor-pointer" width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -66,7 +66,7 @@
                 d="M23.3334 21H9.33335C8.68902 21 8.16669 21.5223 8.16669 22.1667C8.16669 22.811 8.68902 23.3333 9.33335 23.3333H23.3334V24.5C23.3334 25.2314 22.9155 25.6667 22.1667 25.6667H8.16669C6.12922 25.6667 4.66669 24.1432 4.66669 22.1667V5.83334C4.66669 3.85682 6.12922 2.33334 8.16669 2.33334H22.1667C22.9155 2.33334 23.3334 2.76862 23.3334 3.50001V21ZM8.16669 7.00001C8.16669 6.35568 8.68902 5.83334 9.33335 5.83334H17.5C18.1444 5.83334 18.6667 6.35568 18.6667 7.00001C18.6667 7.64434 18.1444 8.16668 17.5 8.16668H9.33335C8.68902 8.16668 8.16669 7.64434 8.16669 7.00001ZM9.33335 10.5C8.68902 10.5 8.16669 11.0223 8.16669 11.6667C8.16669 12.311 8.68902 12.8333 9.33335 12.8333H12.8334C13.4777 12.8333 14 12.311 14 11.6667C14 11.0223 13.4777 10.5 12.8334 10.5H9.33335Z"
             ></path>
         </svg>
-        <div class="absolute w-full h-[2px] lg:w-[3px] lg:h-full bg-[#222222] opacity-30 top-0 bottom-0"></div>
+        <div class="absolute w-full h-[2px] lg:w-[5px] rounded-full lg:h-full bg-[#4BAEFF]  top-0 bottom-0"></div>
     </div>
     <div class="cursor-pointer w-full py-5">
         <svg class="m-auto fill-[#222222]" width="28" height="28" viewBox="0 0 28 28" fill="none" xmlns="http://www.w3.org/2000/svg">
